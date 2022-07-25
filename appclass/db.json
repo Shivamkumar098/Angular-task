@@ -1,0 +1,82 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "web Design",
+      "day": "july 10th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Form validation",
+      "day": "july 11th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Bootstrap",
+      "day": "july 12th at 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "java",
+      "day": "july 13th at 11:30pm",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Angular",
+      "day": "july 14th at 10:30pm",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "HTML",
+      "day": "july 15th at 9:30pm",
+      "reminder": true
+    },
+    {
+      "id": 7,
+      "text": "CSS",
+      "day": "july 16th at 8:30pm",
+      "reminder": true
+    },
+    {
+      "id": 8,
+      "text": "python",
+      "day": "july 17th at 7:30pm",
+      "reminder": true
+    },
+    {
+      "id": 9,
+      "text": "js",
+      "day": "july 18th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 10,
+      "text": "ANgular java script",
+      "day": "july 19th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "text": "react",
+      "day": "16 july  3:30pm",
+      "reminder": true,
+      "id": 11
+    },
+    {
+      "text": "cg vbn,mc vbn,m",
+      "day": "fdcgvh bjn",
+      "reminder": true,
+      "id": 12
+    },
+    {
+      "text": "react",
+      "day": "16 july  3:30pm",
+      "reminder": true,
+      "id": 14
+    }
+  ]
+}
